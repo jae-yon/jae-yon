@@ -1,14 +1,14 @@
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20JaeYon's%20Github&fontSize=50)
+
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/farms/jae-yon"
+    src="https://render.gitanimals.org/lines/jae-yon?pet-id=652119891387870555"
     width="1000"
-    height="400"
+    height="200"
   />
 </a>
-
-
-
-
+  
 <!--
 ## Hi there 👋
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -39,3 +39,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
